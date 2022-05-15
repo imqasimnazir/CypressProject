@@ -9,6 +9,7 @@ it('test 2', ()=>{
 })
 
 it('test 3', ()=>{
+    //this is assertions 
     assert.notEqual(2, 3, 'Not checking ===');
     
 })
